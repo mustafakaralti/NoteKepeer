@@ -1,4 +1,4 @@
-![notekeeper-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3a03e3a2-e8af-468a-8a7c-062112046924)# NoteKepeer
+# NoteKepeer
 
 Bu proje, Html, Javascript ve Scss kullanılarak geliştirilen responsive bir yazılım sitesi tasarımını içermektedir.
 
