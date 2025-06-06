@@ -8,4 +8,4 @@ Bu proje, Html, Javascript ve Scss kullanılarak geliştirilen responsive bir ya
 .HTML, Javasicript&Scss: Modern ve temiz kod yapısı. .Kolay Kullanım: Açık ve anlaşılır yapısıyla düzenlemeye uygun.
 
 # Ekran Görüntüsü
-![notekeeper-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/77185d71-4e31-4516-8c18-ee01a7392edc)
+![notekeeper-ezgif com-crop](https://github.com/user-attachments/assets/6b2684dd-2674-4bbe-a0d0-a94cb9dbe6f1)
